@@ -1,0 +1,27 @@
+{
+  "name": "Chen Mi's CV",
+  "version": "1.0.0",
+  "homepage": "http://lishtys.com/",
+  "authors": [
+    "Lishtys(Chen Mi)"
+  ],
+  "description": "Game Developer and Designer",
+  "keywords": [
+    "Game",
+    "Game Designer",
+    "Game Developer",
+    "VR Developer"
+  ],
+  "license": "CC BY 3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pagepiling.js": "~0.0.7"
+  }
+}
+
